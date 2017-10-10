@@ -607,7 +607,7 @@
 		}
 
 		.box.style2 {
-			
+
 		}
 
 		@media screen and (max-width: 736px) {
@@ -1826,7 +1826,7 @@
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-            text-align:justify; 
+            text-align:justify;
 			padding: 3em 0 6em 0;
 			overflow: hidden;
 		}
