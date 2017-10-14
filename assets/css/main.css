@@ -2105,7 +2105,7 @@
 /* QuemSomos */
 
 	#QuemSomos {
-		background: url("images/overlay.png"), url("../../images/one.jpeg");
+		background: url("images/overlay.png"), url("../../images/two.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2113,7 +2113,7 @@
 
 /* QuemSomos */
 
-	#ComoChegar {
+	#Cron {
 		background: url("images/overlay.png"), url("../../images/3.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -2123,7 +2123,7 @@
 /* QueresParticipar */
 
 	#QueresParticipar {
-		background: url("images/overlay.png"), url("../../images/two.jpeg");
+		background: url("images/overlay.png"), url("../../images/4.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
